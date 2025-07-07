@@ -6,6 +6,6 @@ This is a simple AI chatbot assistant called ERA.
 
 You can download the full ERA AI Assistant HTML file here:
 
-[Download ERA AI Assistant](https://raw.githubusercontent.com/Daria2312/ERA/refs/heads/main/README.md)
+[Download ERA AI Assistant](https://limewire.com/d/fUrkt#oqQHhTdY2n)
 
 *Click the link above to open the file in your browser, then right-click and choose "Save as..." to download it.*
